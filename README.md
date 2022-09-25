@@ -78,3 +78,7 @@ sns.histplot(x='Sales',data=df)
 ![8](https://user-images.githubusercontent.com/93901857/192136700-efdfcbe1-dc70-4a18-93eb-3e333dc0d2f6.jpg)
 ![9](https://user-images.githubusercontent.com/93901857/192136701-f25355d2-6c90-47fb-bd29-c86009739dc1.jpg)
 ![10](https://user-images.githubusercontent.com/93901857/192136703-305bdee4-39d3-4094-9d2c-265591a5bf7a.jpg)
+
+### Result
+
+Thus we have read the given data and performed the univariate analysis with different types of plots.
